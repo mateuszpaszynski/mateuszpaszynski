@@ -1,6 +1,6 @@
 ### Hi there, I'm Mateusz
 
-I'm a Computer Science & Artificial Intelligence student at Jagiellonian University in Kraków, focused on **Backend Development** and Software Engineering. 
+I'm a Computer Science student at Jagiellonian University in Kraków, focused on **Backend Development** and Software Engineering. 
 Currently working on Hermes (football match tracking service) 
 
 ### 🚀 Featured Projects
